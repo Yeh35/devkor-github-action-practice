@@ -1,3 +1,3 @@
-test('1 + 1 은 2일겁니다.', () => {
-    expect(1 + 1).toEqual(2);
+test('1 + 2 은 3일겁니다.', () => {
+    expect(1 + 2).toEqual(3);
 });
