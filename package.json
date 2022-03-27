@@ -1,0 +1,22 @@
+{
+  "name": "devkor-github-action-practice",
+  "version": "1.0.0",
+  "description": "github Action을 실습해보기 위한 Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeh35/devkor-github-action-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yeh35/devkor-github-action-practice/issues"
+  },
+  "homepage": "https://github.com/Yeh35/devkor-github-action-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
